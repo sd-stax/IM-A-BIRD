@@ -1,0 +1,47 @@
+#d1{
+   background:rgb(255,0,0);
+    color:red;
+    width:250px;
+    height:250px;
+    float: left;
+}
+#d2{
+   background:blue;
+    width:250px;
+    height:250px;
+      float: left;
+}
+#d3{
+   background:yellow;
+    width:250px;
+    height:250px;
+      float: left;
+}
+#d4{
+   background:green;
+    width:250px;
+    height:250px;
+  
+    float: left;
+}
+h1{color:white;
+    text-align:center;
+font-family:comic Sans MS;
+}
+ .myImage {
+        width: 200px;
+        height: 200px;
+      padding:5px;
+     margin:10px;
+     border:50px;
+     float: right;
+      } 
+body{ background:black;}
+h2{ font-family:Impact ;
+ color:white;}
+.kewl{
+padding:25px;
+border:10px;
+border-style:inset;
+border-color:black;
+    margin:12px;}
